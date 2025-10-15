@@ -45,14 +45,6 @@
           >
             <Icon icon="fa-brands:instagram" class="text-base" />
           </a>
-
-          <a
-            href=""
-            target="_blank"
-            class="p-2 bg-indigo-500 text-white rounded-full hover:bg-indigo-600 transition-all duration-300 transform hover:scale-110"
-          >
-            <Icon icon="fa-solid:globe" class="text-base" />
-          </a>
         </div>
       </div>
     </div>
