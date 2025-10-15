@@ -27,13 +27,6 @@
         <Icon icon="fa-brands:instagram" class="text-3xl text-pink-500" />
         <span class="text-lg font-medium">@krissantoproperty</span>
       </a>
-
-      <!-- Website -->
-      <a href="https://krissantogroup.com" target="_blank"
-        class="flex items-center justify-center space-x-3 hover:text-indigo-500 transition-all duration-300 hover:scale-105">
-        <Icon icon="fa-solid:globe" class="text-3xl text-indigo-500" />
-        <span class="text-lg font-medium">www.krissantogroup.com</span>
-      </a>
     </div>
   </div>
 </section>
